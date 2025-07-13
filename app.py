@@ -26,7 +26,7 @@ with col1:
 with col2:
     a3 = st.number_input("Jam kerja per Risol Mayo", value=1.0)
     a4 = st.number_input("Jam kerja per Risol Sayur", value=2.0)
-    b2 = st.number_input("Total jam kerja tersedia", value=80.0)
+    b2 = st.number_input("Total jam kerja tersedia", value=5.0)
 
 # Matriks kendala
 A = [
